@@ -20,7 +20,12 @@ Arduino IDE baisc configuration
 - Tools -> Processor -> ATmega328P
 - Tools -> Port -> Select arduino port
 
+#### Schematic
 ![alt text](https://github.com/ManolescuSebastian/Arduino-Nano-HC-05-HC-SR04-SSD1306/blob/master/images/arduino_schematic.jpg)
+
+#### Grapic Schematic
+![alt text](https://github.com/ManolescuSebastian/Arduino-Nano-HC-05-HC-SR04-SSD1306/blob/master/images/arduino_schematic_graphics.jpg)
+
 
 ### Disclaimer
 
