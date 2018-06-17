@@ -1,7 +1,7 @@
 # Arduino-Nano-HC-05-HC-SR04-SSD1306
 Arduino project that contains a basic communication/functionality between 4 components: Arudino Nano V3, Bluetooh HC-05, HC-SR04 Ultrasonic sensor and SD1306 OLED display
 
-Components used for this project:
+# Components used for this project:
 1. Arduino Nano V3
 https://store.arduino.cc/usa/arduino-nano
 2. Bluetooth HC-05
@@ -18,6 +18,6 @@ Arduino IDE baisc configuration
 
 ![alt text](https://github.com/ManolescuSebastian/Arduino-Nano-HC-05-HC-SR04-SSD1306/blob/master/images/arduino_schematic.jpg)
 
-#Disclaimer
+# Disclaimer
 
 Please take into consideration that this project was made just for fun so maybe some parts from the project may need to be improved.
