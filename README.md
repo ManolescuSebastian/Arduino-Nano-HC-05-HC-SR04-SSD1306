@@ -11,6 +11,9 @@ https://components101.com/oled-display-ssd1306
 4. HC-SR04 Ultrasonic Sensor
 https://components101.com/ultrasonic-sensor-working-pinout-datasheet
 
+For this project I've used Arduino IDE 
+https://www.arduino.cc/en/Main/Software?
+
 Arduino IDE baisc configuration
 - Tools -> Board -> Arduino Nano
 - Tools -> Processor -> ATmega328P
