@@ -24,6 +24,9 @@ Arduino IDE baisc configuration
 ![alt text](https://github.com/ManolescuSebastian/Arduino-Nano-HC-05-HC-SR04-SSD1306/blob/master/images/arduino_schematic.jpg)
 
 #### Grapic Schematic
+
+Below you will find a more graphic schematic on how to project and componets look and how they are connected.
+
 ![alt text](https://github.com/ManolescuSebastian/Arduino-Nano-HC-05-HC-SR04-SSD1306/blob/master/images/arduino_schematic_graphics.jpg)
 
 
